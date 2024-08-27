@@ -1,0 +1,61 @@
+.header{
+	height: 100px;
+	background-color: black;
+}
+.container{
+	overflow: hidden;
+}
+.blog{
+	float: left;
+	width: 60%;
+	height: 150px;
+	background-color: brown;
+}
+.contact{
+	float: right;
+	width: 40%;
+	height: 150px;
+	background-color: gray;
+}
+.item{
+	float: left;
+	width: 33.33%;
+	height: 100px;
+}
+.aqua{
+	background-color: magenta;
+}
+.oran{
+	background-color: pink;
+}
+.yell{
+	background-color: orange;
+}
+.product{
+	float: left;
+	width: 25%;
+	height: 100px;
+}
+.a{
+	background-color: green;
+}
+.b{
+	background-color: blue;
+}
+.c{
+	background-color: yellow;
+}
+.d{
+	background-color: blue;
+}
+
+.footer{
+	clear: both;
+	height: 100px;
+	background-color: lightsalmon;
+}
+.product{
+	float: left;
+	width: 25%;
+	height: 100px;
+}
